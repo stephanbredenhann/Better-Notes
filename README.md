@@ -217,14 +217,8 @@ npm run web
 
 There is no Better Notes cloud account and no sync server owned by the app.
 
----
 
-## Design docs
 
-- Product spec: [docs/superpowers/specs/2026-07-11-better-notes-design.md](docs/superpowers/specs/2026-07-11-better-notes-design.md)
-- Visual language reference: [DESIGN.md](DESIGN.md)
-
----
 
 ## Contributing / status
 
